@@ -1,0 +1,19 @@
+{
+  "name": "helloworldnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltyJeff/HelloWorldNPM.git"
+  },
+  "author": "saltyJeff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saltyJeff/HelloWorldNPM/issues"
+  },
+  "homepage": "https://github.com/saltyJeff/HelloWorldNPM#readme"
+}
